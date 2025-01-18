@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "token-001",
+    "kind": "color",
+    "cssVariable": "--aurora-color-001",
+    "fallback": "currentColor",
+    "contrastTarget": 4.5
+  }
+]
