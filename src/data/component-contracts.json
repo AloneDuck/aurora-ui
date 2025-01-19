@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "component-002",
+    "component": "Field",
+    "state": "default",
+    "guarantee": "default remains observable and theme-safe"
+  }
+]
