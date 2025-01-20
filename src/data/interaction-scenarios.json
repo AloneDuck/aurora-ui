@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "interaction-003",
+    "component": "Switch",
+    "trigger": "programmatic",
+    "expected": "default transition is announced without focus loss"
+  }
+]
