@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "budget-004",
+    "component": "Dialog",
+    "metric": "layout-shift",
+    "budget": 11,
+    "unit": "basis-points"
+  }
+]
