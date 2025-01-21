@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "a11y-005",
+    "component": "Tabs",
+    "rule": "default state preserves name, role, value, and focus",
+    "wcag": "2.4.7"
+  }
+]
