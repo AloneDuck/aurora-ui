@@ -4,5 +4,11 @@
     "component": "Field",
     "state": "default",
     "guarantee": "default remains observable and theme-safe"
+  },
+  {
+    "id": "component-007",
+    "component": "Skeleton",
+    "state": "default",
+    "guarantee": "default remains observable and theme-safe"
   }
 ]
