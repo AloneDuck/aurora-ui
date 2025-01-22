@@ -5,5 +5,12 @@
     "metric": "layout-shift",
     "budget": 11,
     "unit": "basis-points"
+  },
+  {
+    "id": "budget-009",
+    "component": "Button",
+    "metric": "layout-shift",
+    "budget": 16,
+    "unit": "basis-points"
   }
 ]
