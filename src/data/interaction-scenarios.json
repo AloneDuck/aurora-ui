@@ -4,5 +4,11 @@
     "component": "Switch",
     "trigger": "programmatic",
     "expected": "default transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-008",
+    "component": "VisuallyHidden",
+    "trigger": "programmatic",
+    "expected": "default transition is announced without focus loss"
   }
 ]
