@@ -4,5 +4,11 @@
     "component": "Tabs",
     "rule": "default state preserves name, role, value, and focus",
     "wcag": "2.4.7"
+  },
+  {
+    "id": "a11y-010",
+    "component": "Field",
+    "rule": "hover state preserves name, role, value, and focus",
+    "wcag": "1.4.11"
   }
 ]
