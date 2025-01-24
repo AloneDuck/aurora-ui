@@ -10,5 +10,11 @@
     "component": "VisuallyHidden",
     "trigger": "programmatic",
     "expected": "default transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-013",
+    "component": "Tabs",
+    "trigger": "programmatic",
+    "expected": "hover transition is announced without focus loss"
   }
 ]
