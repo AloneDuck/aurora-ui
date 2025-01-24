@@ -10,5 +10,11 @@
     "component": "Skeleton",
     "state": "default",
     "guarantee": "default remains observable and theme-safe"
+  },
+  {
+    "id": "component-012",
+    "component": "Dialog",
+    "state": "hover",
+    "guarantee": "hover remains observable and theme-safe"
   }
 ]
