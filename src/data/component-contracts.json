@@ -16,5 +16,11 @@
     "component": "Dialog",
     "state": "hover",
     "guarantee": "hover remains observable and theme-safe"
+  },
+  {
+    "id": "component-017",
+    "component": "Button",
+    "state": "focus-visible",
+    "guarantee": "focus-visible remains observable and theme-safe"
   }
 ]
