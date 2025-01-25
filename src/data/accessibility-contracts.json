@@ -10,5 +10,11 @@
     "component": "Field",
     "rule": "hover state preserves name, role, value, and focus",
     "wcag": "1.4.11"
+  },
+  {
+    "id": "a11y-015",
+    "component": "Skeleton",
+    "rule": "hover state preserves name, role, value, and focus",
+    "wcag": "1.3.1"
   }
 ]
