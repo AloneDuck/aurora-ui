@@ -16,5 +16,11 @@
     "component": "Tabs",
     "trigger": "programmatic",
     "expected": "hover transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-018",
+    "component": "Field",
+    "trigger": "programmatic",
+    "expected": "focus-visible transition is announced without focus loss"
   }
 ]
