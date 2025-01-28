@@ -22,5 +22,11 @@
     "component": "Dialog",
     "rule": "focus-visible state preserves name, role, value, and focus",
     "wcag": "3.3.1"
+  },
+  {
+    "id": "a11y-025",
+    "component": "Button",
+    "rule": "disabled state preserves name, role, value, and focus",
+    "wcag": "2.1.1"
   }
 ]
