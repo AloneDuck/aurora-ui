@@ -22,5 +22,11 @@
     "component": "Field",
     "trigger": "programmatic",
     "expected": "focus-visible transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-023",
+    "component": "Skeleton",
+    "trigger": "programmatic",
+    "expected": "focus-visible transition is announced without focus loss"
   }
 ]
