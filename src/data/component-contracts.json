@@ -22,5 +22,11 @@
     "component": "Button",
     "state": "focus-visible",
     "guarantee": "focus-visible remains observable and theme-safe"
+  },
+  {
+    "id": "component-022",
+    "component": "Card",
+    "state": "focus-visible",
+    "guarantee": "focus-visible remains observable and theme-safe"
   }
 ]
