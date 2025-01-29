@@ -28,5 +28,11 @@
     "component": "Card",
     "state": "focus-visible",
     "guarantee": "focus-visible remains observable and theme-safe"
+  },
+  {
+    "id": "component-027",
+    "component": "Switch",
+    "state": "disabled",
+    "guarantee": "disabled remains observable and theme-safe"
   }
 ]
