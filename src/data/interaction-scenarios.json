@@ -28,5 +28,11 @@
     "component": "Skeleton",
     "trigger": "programmatic",
     "expected": "focus-visible transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-028",
+    "component": "Dialog",
+    "trigger": "programmatic",
+    "expected": "disabled transition is announced without focus loss"
   }
 ]
