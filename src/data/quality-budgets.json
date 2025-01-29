@@ -33,5 +33,12 @@
     "metric": "layout-shift",
     "budget": 14,
     "unit": "basis-points"
+  },
+  {
+    "id": "budget-029",
+    "component": "Tabs",
+    "metric": "layout-shift",
+    "budget": 19,
+    "unit": "basis-points"
   }
 ]
