@@ -28,5 +28,11 @@
     "component": "Button",
     "rule": "disabled state preserves name, role, value, and focus",
     "wcag": "2.1.1"
+  },
+  {
+    "id": "a11y-030",
+    "component": "Card",
+    "rule": "disabled state preserves name, role, value, and focus",
+    "wcag": "1.4.3"
   }
 ]
