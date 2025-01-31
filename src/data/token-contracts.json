@@ -40,5 +40,12 @@
     "cssVariable": "--aurora-spacing-026",
     "fallback": "initial",
     "contrastTarget": 0
+  },
+  {
+    "id": "token-031",
+    "kind": "color",
+    "cssVariable": "--aurora-color-031",
+    "fallback": "currentColor",
+    "contrastTarget": 4.5
   }
 ]
