@@ -34,5 +34,11 @@
     "component": "Dialog",
     "trigger": "programmatic",
     "expected": "disabled transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-033",
+    "component": "Button",
+    "trigger": "programmatic",
+    "expected": "loading transition is announced without focus loss"
   }
 ]
