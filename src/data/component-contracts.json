@@ -34,5 +34,11 @@
     "component": "Switch",
     "state": "disabled",
     "guarantee": "disabled remains observable and theme-safe"
+  },
+  {
+    "id": "component-032",
+    "component": "VisuallyHidden",
+    "state": "disabled",
+    "guarantee": "disabled remains observable and theme-safe"
   }
 ]
