@@ -47,5 +47,12 @@
     "cssVariable": "--aurora-color-031",
     "fallback": "currentColor",
     "contrastTarget": 4.5
+  },
+  {
+    "id": "token-036",
+    "kind": "typography",
+    "cssVariable": "--aurora-typography-036",
+    "fallback": "initial",
+    "contrastTarget": 0
   }
 ]
