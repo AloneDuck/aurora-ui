@@ -40,5 +40,11 @@
     "component": "VisuallyHidden",
     "state": "disabled",
     "guarantee": "disabled remains observable and theme-safe"
+  },
+  {
+    "id": "component-037",
+    "component": "Tabs",
+    "state": "loading",
+    "guarantee": "loading remains observable and theme-safe"
   }
 ]
