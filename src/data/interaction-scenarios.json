@@ -40,5 +40,11 @@
     "component": "Button",
     "trigger": "programmatic",
     "expected": "loading transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-038",
+    "component": "Card",
+    "trigger": "programmatic",
+    "expected": "loading transition is announced without focus loss"
   }
 ]
