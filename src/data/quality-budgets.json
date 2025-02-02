@@ -47,5 +47,12 @@
     "metric": "layout-shift",
     "budget": 24,
     "unit": "basis-points"
+  },
+  {
+    "id": "budget-039",
+    "component": "Skeleton",
+    "metric": "layout-shift",
+    "budget": 12,
+    "unit": "basis-points"
   }
 ]
