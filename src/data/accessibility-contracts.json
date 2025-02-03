@@ -40,5 +40,11 @@
     "component": "Switch",
     "rule": "loading state preserves name, role, value, and focus",
     "wcag": "4.1.2"
+  },
+  {
+    "id": "a11y-040",
+    "component": "VisuallyHidden",
+    "rule": "loading state preserves name, role, value, and focus",
+    "wcag": "2.4.7"
   }
 ]
