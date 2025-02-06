@@ -46,5 +46,11 @@
     "component": "Tabs",
     "state": "loading",
     "guarantee": "loading remains observable and theme-safe"
+  },
+  {
+    "id": "component-042",
+    "component": "Field",
+    "state": "invalid",
+    "guarantee": "invalid remains observable and theme-safe"
   }
 ]
