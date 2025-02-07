@@ -54,5 +54,12 @@
     "metric": "layout-shift",
     "budget": 12,
     "unit": "basis-points"
+  },
+  {
+    "id": "budget-044",
+    "component": "Dialog",
+    "metric": "layout-shift",
+    "budget": 17,
+    "unit": "basis-points"
   }
 ]
