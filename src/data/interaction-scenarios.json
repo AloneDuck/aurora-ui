@@ -46,5 +46,11 @@
     "component": "Card",
     "trigger": "programmatic",
     "expected": "loading transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-043",
+    "component": "Switch",
+    "trigger": "programmatic",
+    "expected": "invalid transition is announced without focus loss"
   }
 ]
