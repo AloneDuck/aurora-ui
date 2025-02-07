@@ -46,5 +46,11 @@
     "component": "VisuallyHidden",
     "rule": "loading state preserves name, role, value, and focus",
     "wcag": "2.4.7"
+  },
+  {
+    "id": "a11y-045",
+    "component": "Tabs",
+    "rule": "invalid state preserves name, role, value, and focus",
+    "wcag": "1.4.11"
   }
 ]
