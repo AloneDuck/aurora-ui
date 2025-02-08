@@ -61,5 +61,12 @@
     "cssVariable": "--aurora-motion-041",
     "fallback": "initial",
     "contrastTarget": 0
+  },
+  {
+    "id": "token-046",
+    "kind": "shadow",
+    "cssVariable": "--aurora-shadow-046",
+    "fallback": "initial",
+    "contrastTarget": 0
   }
 ]
