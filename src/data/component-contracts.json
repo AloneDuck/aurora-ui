@@ -52,5 +52,11 @@
     "component": "Field",
     "state": "invalid",
     "guarantee": "invalid remains observable and theme-safe"
+  },
+  {
+    "id": "component-047",
+    "component": "Skeleton",
+    "state": "invalid",
+    "guarantee": "invalid remains observable and theme-safe"
   }
 ]
