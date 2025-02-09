@@ -52,5 +52,11 @@
     "component": "Switch",
     "trigger": "programmatic",
     "expected": "invalid transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-048",
+    "component": "VisuallyHidden",
+    "trigger": "programmatic",
+    "expected": "invalid transition is announced without focus loss"
   }
 ]
