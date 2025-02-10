@@ -68,5 +68,12 @@
     "cssVariable": "--aurora-shadow-046",
     "fallback": "initial",
     "contrastTarget": 0
+  },
+  {
+    "id": "token-051",
+    "kind": "radius",
+    "cssVariable": "--aurora-radius-051",
+    "fallback": "initial",
+    "contrastTarget": 0
   }
 ]
