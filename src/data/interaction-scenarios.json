@@ -58,5 +58,11 @@
     "component": "VisuallyHidden",
     "trigger": "programmatic",
     "expected": "invalid transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-053",
+    "component": "Tabs",
+    "trigger": "programmatic",
+    "expected": "high-contrast transition is announced without focus loss"
   }
 ]
