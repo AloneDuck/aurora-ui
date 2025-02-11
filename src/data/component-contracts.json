@@ -58,5 +58,11 @@
     "component": "Skeleton",
     "state": "invalid",
     "guarantee": "invalid remains observable and theme-safe"
+  },
+  {
+    "id": "component-052",
+    "component": "Dialog",
+    "state": "high-contrast",
+    "guarantee": "high-contrast remains observable and theme-safe"
   }
 ]
