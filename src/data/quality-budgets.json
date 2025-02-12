@@ -68,5 +68,12 @@
     "metric": "layout-shift",
     "budget": 22,
     "unit": "basis-points"
+  },
+  {
+    "id": "budget-054",
+    "component": "Card",
+    "metric": "layout-shift",
+    "budget": 10,
+    "unit": "basis-points"
   }
 ]
