@@ -75,5 +75,12 @@
     "cssVariable": "--aurora-radius-051",
     "fallback": "initial",
     "contrastTarget": 0
+  },
+  {
+    "id": "token-056",
+    "kind": "spacing",
+    "cssVariable": "--aurora-spacing-056",
+    "fallback": "initial",
+    "contrastTarget": 0
   }
 ]
