@@ -58,5 +58,11 @@
     "component": "Field",
     "rule": "high-contrast state preserves name, role, value, and focus",
     "wcag": "1.3.1"
+  },
+  {
+    "id": "a11y-055",
+    "component": "Skeleton",
+    "rule": "high-contrast state preserves name, role, value, and focus",
+    "wcag": "3.3.1"
   }
 ]
