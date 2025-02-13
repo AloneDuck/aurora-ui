@@ -64,5 +64,11 @@
     "component": "Dialog",
     "state": "high-contrast",
     "guarantee": "high-contrast remains observable and theme-safe"
+  },
+  {
+    "id": "component-057",
+    "component": "Button",
+    "state": "reduced-motion",
+    "guarantee": "reduced-motion remains observable and theme-safe"
   }
 ]
