@@ -64,5 +64,11 @@
     "component": "Tabs",
     "trigger": "programmatic",
     "expected": "high-contrast transition is announced without focus loss"
+  },
+  {
+    "id": "interaction-058",
+    "component": "Field",
+    "trigger": "programmatic",
+    "expected": "reduced-motion transition is announced without focus loss"
   }
 ]
