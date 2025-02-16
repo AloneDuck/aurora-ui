@@ -75,5 +75,12 @@
     "metric": "layout-shift",
     "budget": 10,
     "unit": "basis-points"
+  },
+  {
+    "id": "budget-059",
+    "component": "Switch",
+    "metric": "layout-shift",
+    "budget": 15,
+    "unit": "basis-points"
   }
 ]
