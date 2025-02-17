@@ -64,5 +64,11 @@
     "component": "Skeleton",
     "rule": "high-contrast state preserves name, role, value, and focus",
     "wcag": "3.3.1"
+  },
+  {
+    "id": "a11y-060",
+    "component": "Dialog",
+    "rule": "reduced-motion state preserves name, role, value, and focus",
+    "wcag": "2.1.1"
   }
 ]
