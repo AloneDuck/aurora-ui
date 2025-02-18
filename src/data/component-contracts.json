@@ -70,5 +70,11 @@
     "component": "Button",
     "state": "reduced-motion",
     "guarantee": "reduced-motion remains observable and theme-safe"
+  },
+  {
+    "id": "component-062",
+    "component": "Card",
+    "state": "reduced-motion",
+    "guarantee": "reduced-motion remains observable and theme-safe"
   }
 ]
