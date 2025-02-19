@@ -82,5 +82,12 @@
     "metric": "layout-shift",
     "budget": 15,
     "unit": "basis-points"
+  },
+  {
+    "id": "budget-064",
+    "component": "VisuallyHidden",
+    "metric": "layout-shift",
+    "budget": 20,
+    "unit": "basis-points"
   }
 ]
