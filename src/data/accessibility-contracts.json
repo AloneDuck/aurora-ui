@@ -70,5 +70,11 @@
     "component": "Dialog",
     "rule": "reduced-motion state preserves name, role, value, and focus",
     "wcag": "2.1.1"
+  },
+  {
+    "id": "a11y-065",
+    "component": "Button",
+    "rule": "default state preserves name, role, value, and focus",
+    "wcag": "1.4.3"
   }
 ]
